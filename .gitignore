@@ -1,0 +1,6 @@
+# ignore all folders (downloaded images are in folders)
+*/
+
+# ignore .replit
+.replit
+replit.nix

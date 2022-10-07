@@ -1,3 +1,12 @@
+https://github.com/Atemu/bookwalker-dl
+
+# Running
+In shell, run 
+```shell
+nix-shell shell.nix
+bash bw-dl.bash <cid>
+```
+
 This tool helps you make private copies of bookwalker books that are available publicly under the `viewer-trial` subdomain.  
 It might work for other books too but that's not my goal here and probably doesn't work (it might with a few cookies and tweaks though).
 
